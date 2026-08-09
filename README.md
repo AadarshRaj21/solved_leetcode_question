@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Minimax
@@ -101,4 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
