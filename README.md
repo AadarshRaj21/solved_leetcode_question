@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Minimax
 |  |
 | ------- |
