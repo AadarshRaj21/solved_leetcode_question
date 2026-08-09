@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0877-stone-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
