@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0918-maximum-sum-circular-subarray) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadarshRaj21/solved_leetcode_question/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
